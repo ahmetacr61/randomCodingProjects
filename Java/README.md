@@ -1,6 +1,4 @@
 # Java Projects
-This Repository has random Coding Projects which I made when I got bored :)
-
 ### simple Calculator
 - Just a simple Calculator which is accessible through the console
 
