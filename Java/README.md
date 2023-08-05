@@ -12,4 +12,4 @@ example:
 - When you run the code, a random number between the first two numbers that you put in will be choosen. Than you need to guess which number was choosen. The programm tells you if you need to guess higher or lower to get the correct answer.
 
 ### simple UI
-- This doesn't need a description jet
+- This doesn't need a description yet
