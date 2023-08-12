@@ -36,7 +36,7 @@ switch (Operator)
     break;
     
     default:
-        Console.WriteLine("Something wrent wrong, please restart the code and try again!");
+        Console.WriteLine("Something went wrong, please restart the code and try again!");
     break;
 }
 
