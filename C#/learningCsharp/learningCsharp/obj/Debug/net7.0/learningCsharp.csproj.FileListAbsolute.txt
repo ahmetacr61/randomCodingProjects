@@ -1,0 +1,15 @@
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\bin\Debug\net7.0\learningCsharp.exe
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\bin\Debug\net7.0\learningCsharp.deps.json
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\bin\Debug\net7.0\learningCsharp.runtimeconfig.json
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\bin\Debug\net7.0\learningCsharp.dll
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\bin\Debug\net7.0\learningCsharp.pdb
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.csproj.AssemblyReference.cache
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.AssemblyInfoInputs.cache
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.AssemblyInfo.cs
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.csproj.CoreCompileInputs.cache
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.dll
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\refint\learningCsharp.dll
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.pdb
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\learningCsharp.genruntimeconfig.cache
+C:\Users\61ahm\Desktop\Github\codes\randomCodingProjects\C#\learningCsharp\learningCsharp\obj\Debug\net7.0\ref\learningCsharp.dll
