@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb925d91-9074-4d68-bc12-f65ebc42a40a" name="Changes" comment="" />
+    <list default="true" id="cb925d91-9074-4d68-bc12-f65ebc42a40a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.learningCsharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.learningCsharp/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -76,7 +81,7 @@
       <updated>1691836496399</updated>
       <workItem from="1691836498422" duration="166000" />
       <workItem from="1691836677535" duration="67000" />
-      <workItem from="1691836754534" duration="998000" />
+      <workItem from="1691836754534" duration="1468000" />
     </task>
     <servers />
   </component>
